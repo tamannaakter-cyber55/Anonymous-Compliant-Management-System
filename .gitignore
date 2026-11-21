@@ -1,0 +1,34 @@
+
+# Compiled Java files
+*.class
+
+# Java build directories
+target/
+build/
+out/
+bin/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Environment and sensitive configuration
+.env
+.env.*
+!.env.example
